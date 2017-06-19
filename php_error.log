@@ -1,0 +1,16 @@
+[04-Nov-2014 23:55:43 UTC] PHP Warning:  scandir(/public_html/src/img/): failed to open dir: No such file or directory in /home/kiwikid/public_html/index.php on line 60
+[04-Nov-2014 23:55:43 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/kiwikid/public_html/index.php on line 60
+[04-Nov-2014 23:56:23 UTC] PHP Warning:  scandir(/public_html/src/img/): failed to open dir: No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:56:23 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:57:34 UTC] PHP Warning:  scandir(/public_html/src/img/): failed to open dir: No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:57:34 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:58:37 UTC] PHP Warning:  scandir(/public_html/src/img/): failed to open dir: No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:58:37 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:59:46 UTC] PHP Warning:  scandir(/public_html/src/img): failed to open dir: No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[04-Nov-2014 23:59:46 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/kiwikid/public_html/index.php on line 62
+[05-Nov-2014 00:12:32 UTC] PHP Notice:  Array to string conversion in /home/kiwikid/public_html/index.php on line 67
+[05-Nov-2014 00:12:32 UTC] PHP Notice:  Array to string conversion in /home/kiwikid/public_html/index.php on line 67
+[05-Nov-2014 00:12:32 UTC] PHP Notice:  Array to string conversion in /home/kiwikid/public_html/index.php on line 67
+[05-Nov-2014 00:12:32 UTC] PHP Notice:  Array to string conversion in /home/kiwikid/public_html/index.php on line 67
+[05-Nov-2014 00:12:32 UTC] PHP Notice:  Array to string conversion in /home/kiwikid/public_html/index.php on line 67
+[05-Nov-2014 00:14:25 UTC] PHP Notice:  Array to string conversion in /home/kiwikid/public_html/index.php on line 67
